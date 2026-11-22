@@ -1,0 +1,7 @@
+dataset,condition,n_paired,delta_stereotype_pp,delta_ci95_lo,delta_ci95_hi,changed_toward_stereotype,changed_away_from_stereotype,paired_p_value
+English - 262,after: English direction,262,3.05,-0.76,6.49,16,8,0.15158963203430176
+English - 262,after: Urdu direction,262,1.53,-0.76,3.82,7,3,0.34375
+English - 242 aligned,after: English direction,242,3.31,-0.41,7.02,15,7,0.13380050659179688
+English - 242 aligned,after: Urdu direction,242,1.65,-0.83,4.14,7,3,0.34375
+Urdu - 242,after: English direction,242,1.65,-1.25,4.96,10,6,0.454498291015625
+Urdu - 242,after: Urdu direction,242,2.07,-1.24,5.79,12,7,0.359283447265625

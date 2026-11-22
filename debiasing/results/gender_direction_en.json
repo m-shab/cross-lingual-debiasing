@@ -1,0 +1,10 @@
+{
+  "explained": [
+    0.3934410810470581
+  ],
+  "n_pairs": 10000,
+  "pool": "mean",
+  "lang": "en",
+  "model": "bert-base-multilingual-uncased",
+  "k": 1
+}

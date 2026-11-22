@@ -1,0 +1,18 @@
+{
+  "cosine_en_vs_ur_top_component": -0.6413323283195496,
+  "abs_cosine_en_vs_ur": 0.6413323283195496,
+  "explained_en": [
+    0.3934410810470581
+  ],
+  "explained_ur": [
+    0.13929376006126404
+  ],
+  "n_pairs_en": 10000,
+  "n_pairs_ur": 10000,
+  "pool": "mean",
+  "k": 1,
+  "swap_diff_along_en_dir__on_en_sentences": 0.5765476822853088,
+  "swap_diff_along_en_dir__on_ur_sentences": 0.1805189996957779,
+  "swap_diff_along_ur_dir__on_en_sentences": 0.370206356048584,
+  "swap_diff_along_ur_dir__on_ur_sentences": 0.27328670024871826
+}
