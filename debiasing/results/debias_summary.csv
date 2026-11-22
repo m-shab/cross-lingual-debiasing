@@ -1,0 +1,10 @@
+dataset,condition,evaluated_pairs,stereotype_preference_pct,ci95_lo,ci95_hi,anti_stereotype_preference_pct,ties_pct,deviation_from_50
+English - 262,before (original mBERT),262,50.38,44.6,56.5,49.24,0.38,0.38
+English - 242 aligned,before (original mBERT),242,50.0,43.8,56.2,49.59,0.41,0.0
+Urdu - 242,before (original mBERT),242,46.69,40.9,53.3,53.31,0.0,3.31
+English - 262,after: English direction,262,53.44,47.7,59.5,46.56,0.0,3.44
+English - 242 aligned,after: English direction,242,53.31,47.1,59.5,46.69,0.0,3.31
+Urdu - 242,after: English direction,242,48.35,42.6,55.0,51.65,0.0,1.65
+English - 262,after: Urdu direction,262,51.91,46.2,58.0,48.09,0.0,1.91
+English - 242 aligned,after: Urdu direction,242,51.65,45.5,57.9,48.35,0.0,1.65
+Urdu - 242,after: Urdu direction,242,48.76,43.0,55.4,51.24,0.0,1.24
