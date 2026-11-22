@@ -1,0 +1,4 @@
+dataset,evaluated_pairs,stereotype_preference_pct,anti_stereotype_preference_pct,ties_pct,deviation_from_50
+English - all 262 pairs,262,50.38,49.24,0.38,0.38
+English - 242 aligned pairs,242,50.0,49.59,0.41,0.0
+Urdu - 242 pairs,242,46.69,53.31,0.0,3.31
