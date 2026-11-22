@@ -1,0 +1,69 @@
+﻿male_ur,female_ur,gloss_en,type,use_for
+مرد,عورت,man / woman,person,debias
+لڑکا,لڑکی,boy / girl,person,debias
+آدمی,خاتون,man / lady,person,debias
+بوڑھا,بوڑھی,old man / old woman,person,debias
+دولہا,دلہن,groom / bride,person,debias
+صاحب,صاحبہ,sir / madam (title),title,debias
+جناب,محترمہ,respected sir / respected madam,title,debias
+باپ,ماں,father / mother,kinship,debias
+ابو,امی,dad / mum,kinship,debias
+والد,والدہ,father / mother (formal),kinship,debias
+بیٹا,بیٹی,son / daughter,kinship,debias
+بھائی,بہن,brother / sister,kinship,debias
+شوہر,بیوی,husband / wife,kinship,debias
+دادا,دادی,paternal grandfather / grandmother,kinship,debias
+نانا,نانی,maternal grandfather / grandmother,kinship,debias
+چچا,چچی,paternal uncle / his wife,kinship,debias
+ماموں,ممانی,maternal uncle / his wife,kinship,debias
+خالو,خالہ,maternal aunt's husband / maternal aunt,kinship,debias
+پھوپھا,پھوپھی,paternal aunt's husband / paternal aunt,kinship,debias
+بھتیجا,بھتیجی,brother's son / daughter,kinship,debias
+بھانجا,بھانجی,sister's son / daughter,kinship,debias
+پوتا,پوتی,son's son / daughter,kinship,debias
+نواسا,نواسی,daughter's son / daughter,kinship,debias
+سسر,ساس,father-in-law / mother-in-law,kinship,debias
+داماد,بہو,son-in-law / daughter-in-law,kinship,debias
+دیور,نند,husband's brother / husband's sister,kinship,debias
+استاد,استانی,teacher,occupation,debias
+طالب علم,طالبہ,student,occupation,debias
+ملازم,ملازمہ,employee,occupation,debias
+نوکر,نوکرانی,servant,occupation,debias
+مالک,مالکن,owner,occupation,debias
+شاعر,شاعرہ,poet,occupation,debias
+مصنف,مصنفہ,author,occupation,debias
+اداکار,اداکارہ,actor / actress,occupation,debias
+گلوکار,گلوکارہ,singer,occupation,debias
+پڑوسی,پڑوسن,neighbour,occupation,debias
+دوست,سہیلی,friend (male / female),occupation,debias
+بادشاہ,ملکہ,king / queen,occupation,debias
+شہزادہ,شہزادی,prince / princess,occupation,debias
+حاجی,حاجن,one who has performed Hajj,occupation,debias
+اچھا,اچھی,good,adjective_infl,grammar
+برا,بری,bad,adjective_infl,grammar
+بڑا,بڑی,big,adjective_infl,grammar
+چھوٹا,چھوٹی,small,adjective_infl,grammar
+لمبا,لمبی,tall / long,adjective_infl,grammar
+موٹا,موٹی,fat,adjective_infl,grammar
+پیارا,پیاری,dear / lovely,adjective_infl,grammar
+کالا,کالی,black,adjective_infl,grammar
+نیا,نئی,new,adjective_infl,grammar
+پرانا,پرانی,old,adjective_infl,grammar
+ٹھنڈا,ٹھنڈی,cold,adjective_infl,grammar
+تھکا,تھکی,tired,adjective_infl,grammar
+تھا,تھی,was (sg.),verb_infl,grammar
+تھے,تھیں,were (pl.),verb_infl,grammar
+گیا,گئی,went,verb_infl,grammar
+آیا,آئی,came,verb_infl,grammar
+ہوا,ہوئی,became / happened,verb_infl,grammar
+بولا,بولی,spoke,verb_infl,grammar
+سویا,سوئی,slept,verb_infl,grammar
+بیٹھا,بیٹھی,sat,verb_infl,grammar
+کھڑا,کھڑی,stood,verb_infl,grammar
+رویا,روئی,cried,verb_infl,grammar
+کرتا,کرتی,does (habitual),verb_infl,grammar
+جاتا,جاتی,goes (habitual),verb_infl,grammar
+رہا,رہی,stayed / progressive aux,verb_infl,grammar
+سکتا,سکتی,can (modal),verb_infl,grammar
+کرے گا,کرے گی,will do,verb_infl,grammar
+جائے گا,جائے گی,will go,verb_infl,grammar
