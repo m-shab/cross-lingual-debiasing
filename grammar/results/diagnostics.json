@@ -1,0 +1,35 @@
+{
+  "reproduce_m3_ur_direction_abs_cos": 0.9999999403953552,
+  "grammar_k1_explained": [
+    0.3593156635761261
+  ],
+  "grammar_k1_n_pairs": 5028,
+  "grammar_k3_explained": [
+    0.3593156635761261,
+    0.10269490629434586,
+    0.07000136375427246
+  ],
+  "bias_en_k5_explained": [
+    0.39344102144241333,
+    0.05456617474555969,
+    0.03537200763821602,
+    0.024501312524080276,
+    0.021686989814043045
+  ],
+  "bias_ur_k5_explained": [
+    0.13929368555545807,
+    0.07322251051664352,
+    0.06127563491463661,
+    0.051347870379686356,
+    0.041518427431583405
+  ],
+  "overlap_en_with_grammar_k1": 0.5237866752327254,
+  "overlap_en_with_grammar_k3": 0.5248368018538165,
+  "overlap_ur_with_grammar_k1": 0.45404694338631385,
+  "overlap_ur_with_grammar_k3": 0.4571816888268818,
+  "overlap_en_k5_with_grammar_k1": 0.14041841573189665,
+  "overlap_en_k5_with_grammar_k3": 0.2284761379188697,
+  "overlap_ur_k5_with_grammar_k1": 0.1053770202024276,
+  "overlap_ur_k5_with_grammar_k3": 0.12643883749743992,
+  "abs_cos_en_ur_bias": 0.6413323283195496
+}
